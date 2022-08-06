@@ -1,5 +1,2 @@
 This is test file for sample download.
-This is another line
-Adding another line
-Adding a 4th line
-testing sample reset
+Git revert commit 1
