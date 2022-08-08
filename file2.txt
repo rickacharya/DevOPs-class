@@ -1,3 +1,0 @@
-this is file 2
-testing reset 2
-testing reset 3
